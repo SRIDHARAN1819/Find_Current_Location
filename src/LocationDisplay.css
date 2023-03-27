@@ -1,0 +1,15 @@
+.North{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 100vh;
+   background-color: #25E5BE;
+}
+
+.South{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #47F122;
+}
